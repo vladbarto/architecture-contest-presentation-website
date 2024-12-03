@@ -1,0 +1,11 @@
+.calendar-card {
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin: 1%;
+    padding: 10px 200px;
+}
+
+.calendar-card img {
+
+    width: 600px;
+}
